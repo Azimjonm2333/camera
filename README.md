@@ -1,6 +1,8 @@
 # Camera
 Получаем доступ к своей камере
 
+$ pip install opencv-python
+
 # Использование
 
 $ python3 main.py
