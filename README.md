@@ -3,6 +3,8 @@
 
 $ pip install opencv-python
 
+$ git clone https://github.com/Azimjonm2333/camera.git
+
 $ cd camera
 
 # Использование
