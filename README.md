@@ -3,6 +3,8 @@
 
 $ pip install opencv-python
 
+$ cd camera
+
 # Использование
 
 $ python3 main.py
